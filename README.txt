@@ -6,10 +6,6 @@ Huynh Phuc Nguyen Nguyen - ID: 32442890
 Location of the dumped SQL file (schema.sql):
 fit2104_assignement_5/schema.sql
 
-Connection file information:
-$db_name = "fit2104_assignment_5";
-$db_username = "fit2104";
-$db_password = "123";
 
 Default Login email and password for the application. Nathan can use this account to create other users or his own account:
 Email: admin@email.com
