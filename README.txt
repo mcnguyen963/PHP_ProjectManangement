@@ -4,7 +4,7 @@ These files were written by:
 Huynh Phuc Nguyen Nguyen - ID: 32442890
 
 Location of the dumped SQL file (schema.sql):
-fit2104_assignement_5/schema.sql
+./schema.sql
 
 
 Default Login email and password for the application. Nathan can use this account to create other users or his own account:
