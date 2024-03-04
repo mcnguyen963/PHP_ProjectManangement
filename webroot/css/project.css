@@ -1,0 +1,7 @@
+.project-search-bar {
+    display: flex;
+    padding: 0.5rem 0;
+}
+.search-field{
+    display:inline-block;
+}
