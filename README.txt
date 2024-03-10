@@ -1,7 +1,7 @@
 This is Nathan recruitment application that was design for Nathan and his team to manage there work flow when their operation size expand.
 
 These files were written by:
-Huynh Phuc Nguyen Nguyen - ID: 32442890
+Huynh Phuc Nguyen Nguyen
 
 Location of the dumped SQL file (schema.sql):
 ./schema.sql
